@@ -1,0 +1,10 @@
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\bin\Debug\SestiDan.exe.config
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\bin\Debug\SestiDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\bin\Debug\SestiDan.pdb
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.csprojAssemblyReference.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.Form1.resources
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.Properties.Resources.resources
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.csproj.GenerateResource.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.csproj.CoreCompileInputs.cache
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.exe
+C:\Users\katar_000\Documents\Visual Studio 2017\Projects\SestiDanForms\SestiDan\obj\Debug\SestiDan.pdb
